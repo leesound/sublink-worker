@@ -69,7 +69,7 @@ const generateGithubLink = () => `
 
 const generateCardHeader = () => `
 <div class="card-header text-center">
-<h1 class="display-4 mb-0">Sublink Worker</h1>
+<h1 class="display-4 mb-0">订阅转换</h1>
 </div>
 `;
 
